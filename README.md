@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 It does not include node modules folder.
 
+In order to work make new project using "npm init react-app my-app" in terminal plus add npm install --save react-modal. If done replace files in project with those from repo and use comands below to navigate
+
+
 ## Available Scripts
 
 In the project directory, you can run:
